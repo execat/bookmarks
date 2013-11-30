@@ -4,7 +4,7 @@
 | [KandanApp](http://kandanapp.com/) 	| Rails | An Open Source Alternative to HipChat and so much more.			| [Github](https://github.com/kandanapp/kandan/) 			|
 | [GitLab.org](http://gitlab.org/) 		| Rails | GitLab is open source software to collaborate on code. Create projects and repositories, manage access and do code reviews.	| [Github](https://github.com/gitlabhq/gitlabhq/) |
 | [USV.com](http://usv.com) 			| Python/Tornado | USV.com community site.									| [Github](https://github.com/unionsquareventures/theconversation) |
-| [Etherpad Lite](http://etherpad.org) 	| Really real-time collaborative document editing for the rest of us.		| [Github](https://github.com/ether/etherpad-lite) 			|
+| [Etherpad Lite](http://etherpad.org) 	|		| Really real-time collaborative document editing for the rest of us.		| [Github](https://github.com/ether/etherpad-lite) 			|
 | [Selfstarter](http://selfstarter.us/) | Rails | Selfstarter makes it easy to roll your own crowdfunding site.		| [Github](https://github.com/lockitron/selfstarter) 		|
 | [Api Axle](http://apiaxle.com) 		| Node | A free, locally hosted API management solution. A proxy for your api, statistics for your api & a powerful api of its own.		| [Github](https://github.com/apiaxle/apiaxle) |
 | [Kite](http://khamidou.github.io/kite/) | Python/Node) | Kite is an opensource replacement to Gmail.				| [Github](https://github.com/khamidou/kite) 				|
