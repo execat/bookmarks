@@ -1,4 +1,4 @@
-* [Monocle](http://monocle.io) (Rails): Monocle is a community focused around technology and startups. [Github](https://github.com/maccman/monocle)
+* [Monocle](http://monocle.io) (Sinatra): Monocle is a community focused around technology and startups. [Github](https://github.com/maccman/monocle)
 * [KandanApp](http://kandanapp.com/) (Rails): An Open Source Alternative to HipChat and so much more. [Github](https://github.com/kandanapp/kandan/)
 * [GitLab.org](http://gitlab.org/) (Rails): GitLab is open source software to collaborate on code. Create projects and repositories, manage access and do code reviews. [Github](https://github.com/gitlabhq/gitlabhq/)
 * [USV.com](http://usv.com) (Python/Tornado): USV.com community site. [Github](https://github.com/unionsquareventures/theconversation)
