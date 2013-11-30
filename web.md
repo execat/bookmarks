@@ -27,7 +27,9 @@
 | [Sharefest](http://sharefest.me) 		| Node  | One-To-Many sharing application. Serverless. Eliminates the need to fully upload your file to services such as Dropbox or Google Drive.	| [Github](https://github.com/Peer5/ShareFest) |
 
 # Quick mentions
-[HubSpot Dev and Design](http://github.hubspot.com/) |
-[Open source buttons](http://dracs89.github.io/bbtn/) |
-[Hacker Typer](https://github.com/duiker101/Hacker-Typer) |
-[Coursewa.re](https://github.com/Courseware) |
+* [HubSpot Dev and Design](http://github.hubspot.com/)
+* [Open source buttons](http://dracs89.github.io/bbtn/)
+* [Coursewa.re](https://github.com/Courseware)
+
+# Fun applications
+* * [Hacker Typer](https://github.com/duiker101/Hacker-Typer)
