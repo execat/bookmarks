@@ -1,11 +1,8 @@
 | Application name 						| Platform | Description | Links |
 |---------------------------------------|-------|----------------|-------|
 | [Monocle](http://monocle.io)  		| Rails | Monocle is a community focused around technology and startups.	| [Github](https://github.com/maccman/monocle) 				|
-| [KandanApp](http://kandanapp.com/) 	| Rails | An Open Source Alternative to HipChat and so much more.			| [Github](https://github.com/kandanapp/kandan/) 			|
-| [GitLab.org](http://gitlab.org/) 		| Rails | GitLab is open source software to collaborate on code. Create projects and repositories, manage access and do code reviews.	| [Github](https://github.com/gitlabhq/gitlabhq/) |
 | [USV.com](http://usv.com) 			| Python/Tornado | USV.com community site.									| [Github](https://github.com/unionsquareventures/theconversation) |
 | [Etherpad Lite](http://etherpad.org) 	|		| Really real-time collaborative document editing for the rest of us.		| [Github](https://github.com/ether/etherpad-lite) 			|
-| [Selfstarter](http://selfstarter.us/) | Rails | Selfstarter makes it easy to roll your own crowdfunding site.		| [Github](https://github.com/lockitron/selfstarter) 		|
 | [Api Axle](http://apiaxle.com) 		| Node | A free, locally hosted API management solution. A proxy for your api, statistics for your api & a powerful api of its own.		| [Github](https://github.com/apiaxle/apiaxle) |
 | [Kite](http://khamidou.github.io/kite/) | Python/Node) | Kite is an opensource replacement to Gmail.				| [Github](https://github.com/khamidou/kite) 				|
 | [Feedbin](https://feedbin.me/) 		| Rails | A fast, simple RSS reader that delivers a great reading experience.| [Github](https://github.com/feedbin/feedbin) 			|
@@ -13,11 +10,9 @@
 | [Holla](https://maccman-holla.heroku.com/) | Rails | Holla is a group chat app. The UI is built in a RIA fashion - i.e. is totally asynchronous and super fast.				| [Github](https://github.com/maccman/holla) |
 | [Wanderlust](http://mywanderlust.co/) | Rails | A web and mobile application to help organize travel plans among multiple people.												| [Github](https://github.com/danecjensen/mywanderlust) |
 | [Peer.fm](http://peer.fm) 			| 		| Music-streaming service with unique social features and real-time syncing.													| [Github](https://github.com/buu700/napster.fm/) |
-| [Diaspora](https://diasporafoundation.org/) | Rails | Distributed and contextual social networking.				| [Github](https://github.com/diaspora/diaspora) 			|
 | [TuneCrawl](http://www.tunecrawl.com/)| Plain HTML, JavaScript) | Find and play music from the most popular music streaming providers.										| [Github](https://github.com/ProbablyOliver/TuneCrawl) |
 | Brevidy 								| Rails | An open source video social network built with Ruby on Rails, HAML, Bootstrap, and jQuery.									| [Github](https://github.com/iwasrobbed/Brevidy) |
 | [codedoor](https://www.codedoor.com/) | Rails | CodeDoor is a marketplace for freelance programmers to find work.	| [Github](https://github.com/CodeDoor/codedoor) 			|
-| [Discourse](http://www.discourse.org) | Rails | A platform for community discussion. Free, open, simple.			| [Github](https://github.com/discourse/discourse) 			|
 | [GetchaBooks](http://getchaBooks.com) | PHP 	| GetchaBooks.com is a web service that combines school textbook listings with an easy-to-use price comparison system.			| [Github](https://github.com/getchabooks/getchabooks) |
 | [makrio](https://makr.io) 			| 		| Source code for https://makr.io.									| [Github](https://github.com/makrio/makrio) 				|
 | [MediaCrush](https://mediacru.sh) 	| Python | A website for serving media super fast.							| [Github](https://github.com/MediaCrush/MediaCrush) 		|
@@ -32,4 +27,4 @@
 * [Coursewa.re](https://github.com/Courseware)
 
 # Fun applications
-* * [Hacker Typer](https://github.com/duiker101/Hacker-Typer)
+* [Hacker Typer](https://github.com/duiker101/Hacker-Typer)
