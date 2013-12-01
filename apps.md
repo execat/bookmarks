@@ -25,8 +25,8 @@
 | [Inkpad](https://itunes.apple.com/app/id400083414) | Inkpad is a vector illustration app designed from scratch for the iPad.| [Github](https://github.com/sprang/Inkpad) |
 
 # Quick mentions:
-[id Software games](https://github.com/id-Software)
-[Lugaru](http://www.wolfire.com/lugaru) [Hg repo](http://hg.icculus.org/icculus/lugaru/)
-[Multics](http://web.mit.edu/multics-history/)
-[Artsy](http://artsy.github.io/open-source/)
-[Hubot](http://hubot.github.com)
+* [id Software games](https://github.com/id-Software)
+* [Lugaru](http://www.wolfire.com/lugaru) [Hg repo](http://hg.icculus.org/icculus/lugaru/)
+* [Multics](http://web.mit.edu/multics-history/)
+* [Artsy](http://artsy.github.io/open-source/)
+* [Hubot](http://hubot.github.com)
