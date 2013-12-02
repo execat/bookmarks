@@ -1,6 +1,6 @@
 | Application name 						| Platform | Description | Links |
 |---------------------------------------|-------|----------------|-------|
-| [Monocle](http://monocle.io)  		| Rails | Monocle is a community focused around technology and startups.	| [Github](https://github.com/maccman/monocle) 				|
+| [Monocle](http://monocle.io)  		| Sinatra, client-side JS | Monocle is a community focused around technology and startups.	| [Github](https://github.com/maccman/monocle) 				|
 | [USV.com](http://usv.com) 			| Python/Tornado | USV.com community site.									| [Github](https://github.com/unionsquareventures/theconversation) |
 | [Etherpad Lite](http://etherpad.org) 	|		| Really real-time collaborative document editing for the rest of us.		| [Github](https://github.com/ether/etherpad-lite) 			|
 | [Api Axle](http://apiaxle.com) 		| Node | A free, locally hosted API management solution. A proxy for your api, statistics for your api & a powerful api of its own.		| [Github](https://github.com/apiaxle/apiaxle) |
