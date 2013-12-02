@@ -9,7 +9,9 @@
 | tweet-secret 							| A text steganography application optimized for use on Twitter, written in Clojure.| [Github](https://github.com/dpapathanasiou/tweet-secret) |
 | [SCIgen](http://pdos.csail.mit.edu/scigen/) | An automatic CS Paper Generator.
 
-# Languages
+# Languages and compilers
+| Software | Description | Links |
+|------------------|-------------|-------|
 | [Mathics](http://www.mathics.org/) 	| Mathics is a free, general-purpose online computer algebra system featuring Mathematica-compatible syntax and functions. It is backed by highly extensible Python code, relying on SymPy for most mathematical tasks.| [Github](http://github.com/poeschko/mathics) |
 | [r17](http://rseventeen.com) 			| A relational concurrent data mining language.| [Github](https://github.com/matthewnourse/r17) |
 | [Dogescript](http://zachbruggeman.me/dogescript/) | wow so syntax very doge much future| [Github](https://github.com/remixz/dogescript) |
@@ -23,8 +25,8 @@
 | [Inkpad](https://itunes.apple.com/app/id400083414) | Inkpad is a vector illustration app designed from scratch for the iPad.| [Github](https://github.com/sprang/Inkpad) |
 
 # Quick mentions:
-[id Software games](https://github.com/id-Software)
-[Lugaru](http://www.wolfire.com/lugaru) [Hg repo](http://hg.icculus.org/icculus/lugaru/)
-[Multics](http://web.mit.edu/multics-history/)
-[Artsy](http://artsy.github.io/open-source/)
-[Hubot](http://hubot.github.com)
+* [id Software games](https://github.com/id-Software)
+* [Lugaru](http://www.wolfire.com/lugaru) [Hg repo](http://hg.icculus.org/icculus/lugaru/)
+* [Multics](http://web.mit.edu/multics-history/)
+* [Artsy](http://artsy.github.io/open-source/)
+* [Hubot](http://hubot.github.com)

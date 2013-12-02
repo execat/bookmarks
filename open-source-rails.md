@@ -1,5 +1,6 @@
 # Rails applications
-## From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Added"
+
+From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Added"
 
 | Application   | Description   | Links |
 |---------------|---------------|-------|
