@@ -18,6 +18,7 @@
 | [MediaCrush](https://mediacru.sh) 	| Python | A website for serving media super fast.							| [Github](https://github.com/MediaCrush/MediaCrush) 		|
 | [Reportr](http://www.reportr.io) 		| Node  | Your life's personal dashboard.									| [Github](https://github.com/SamyPesse/reportr) 			|
 | [Quill](http://www.quill.org) 		| Rails | Quill provides interactive grammar lessons.						| [Github](https://github.com/empirical-org/quill) 			|
+| [Sched.do](http://sched.do) | Rails | A scheduling app that is tightly integrated with Yammer.									| [Github](https://github.com/yammer/sched.do) 			|
 | [Sketch-a-char](http://sketch-a-char.heroku.com) | Rails | Successor of Detexify.									| [Github](https://github.com/kirel/sketch-a-char) 			|
 | [Sharefest](http://sharefest.me) 		| Node  | One-To-Many sharing application. Serverless. Eliminates the need to fully upload your file to services such as Dropbox or Google Drive.	| [Github](https://github.com/Peer5/ShareFest) |
 | [GuessHub](http://guesshub.io/) | Node  | Given a patch (change) taken from a GitHub commit, guess which repository it comes from. | [Github](https://github.com/max99x/guesshub/)
