@@ -1,5 +1,6 @@
 | Application name 						| Platform | Description | Links |
 |---------------------------------------|-------|----------------|-------|
+| [Copycopter](http://copycopter.com) | Rails | Copycopter is a service for editing the copy text of a Rails application. | [Github](https://github.com/copycopter/copycopter-server) |
 | [Monocle](http://monocle.io)  		| Rails | Monocle is a community focused around technology and startups.	| [Github](https://github.com/maccman/monocle) 				|
 | [USV.com](http://usv.com) 			| Python/Tornado | USV.com community site.									| [Github](https://github.com/unionsquareventures/theconversation) |
 | [Etherpad Lite](http://etherpad.org) 	|		| Really real-time collaborative document editing for the rest of us.		| [Github](https://github.com/ether/etherpad-lite) 			|
