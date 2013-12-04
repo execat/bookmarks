@@ -23,6 +23,8 @@
 | [Sharefest](http://sharefest.me) 		| Node  | One-To-Many sharing application. Serverless. Eliminates the need to fully upload your file to services such as Dropbox or Google Drive.	| [Github](https://github.com/Peer5/ShareFest) |
 | [GuessHub](http://guesshub.io/) | Node  | Given a patch (change) taken from a GitHub commit, guess which repository it comes from. | [Github](https://github.com/max99x/guesshub/)
 | [Explainshell](http://www.explainshell.com/) | Python | Explain a given command-line. | [Github](https://github.com/idank/explainshell) |
+| [Telescope](http://telesc.pe) | Meteor (JS) | HN clone built in Meteor | [Github](https://github.com/SachaG/Telescope) |
+
 
 # Quick mentions
 * [HubSpot Dev and Design](http://github.hubspot.com/)
