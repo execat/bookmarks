@@ -24,6 +24,7 @@
 | [GuessHub](http://guesshub.io/) | Node  | Given a patch (change) taken from a GitHub commit, guess which repository it comes from. | [Github](https://github.com/max99x/guesshub/)
 | [Explainshell](http://www.explainshell.com/) | Python | Explain a given command-line. | [Github](https://github.com/idank/explainshell) |
 | [Telescope](http://telesc.pe) | Meteor (JS) | HN clone built in Meteor | [Github](https://github.com/SachaG/Telescope) |
+| [Hacker News](http://news.ycombinator.com) | Arc | Hacker News web site source code mirror. | [Github](https://github.com/wting/hackernews) |
 
 
 # Quick mentions
