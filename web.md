@@ -25,6 +25,7 @@
 | [Explainshell](http://www.explainshell.com/) | Python | Explain a given command-line. | [Github](https://github.com/idank/explainshell) |
 | [Telescope](http://telesc.pe) | Meteor (JS) | HN clone built in Meteor | [Github](https://github.com/SachaG/Telescope) |
 | [Hacker News](http://news.ycombinator.com) | Arc | Hacker News web site source code mirror. | [Github](https://github.com/wting/hackernews) |
+| [cozy-pfm](https://www.cozycloud.cc/) | JavaScript | This is a Personal Finance Manager for the awesome CozyCloud project. | [Github](https://github.com/seeker89/cozy-pfm/) |
 
 
 # Quick mentions
