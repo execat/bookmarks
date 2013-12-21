@@ -27,6 +27,7 @@
 | [Hacker News](http://news.ycombinator.com) | Arc | Hacker News web site source code mirror. | [Github](https://github.com/wting/hackernews) |
 | [cozy-pfm](https://www.cozycloud.cc/) | JavaScript | This is a Personal Finance Manager for the awesome CozyCloud project. | [Github](https://github.com/seeker89/cozy-pfm/) |
 | [Guardian](http://www.theguardian.com/uk?view=mobile) | CSS, styling | The Guardian website frontend. | [Github](https://github.com/guardian/frontend) |
+| [LogicPull](https://www.logicpull.com/) | Node | LogicPull gives you the tools to quickly create advanced question and answer interviews for end-users to produce all the documents you need. | [Github](https://github.com/ChrisZieba/LogicPull) |
 
 
 # Quick mentions
