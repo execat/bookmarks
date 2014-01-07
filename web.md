@@ -29,6 +29,7 @@
 | [Guardian](http://www.theguardian.com/uk?view=mobile) | CSS, styling | The Guardian website frontend.     | [Github](https://github.com/guardian/frontend) |
 | [LogicPull](https://www.logicpull.com/) | Node | LogicPull gives you the tools to quickly create advanced question and answer interviews for end-users to produce all the documents you need. | [Github](https://github.com/ChrisZieba/LogicPull) |
 | [Prose](https://prose.io)             | Node  | A content editor for GitHub                               | [Github](https://github.com/prose/prose) |
+| [Code Combat](http://codecombat.com/) | CoffeeScript | Multiplayer programming game for learning how to code. Largest FOSS CoffeeScript codebase in production | [Github](https://github.com/codecombat/codecombat) |
 
 
 # Quick mentions
