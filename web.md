@@ -30,7 +30,10 @@
 | [LogicPull](https://www.logicpull.com/) | Node | LogicPull gives you the tools to quickly create advanced question and answer interviews for end-users to produce all the documents you need. | [Github](https://github.com/ChrisZieba/LogicPull) |
 | [Prose](https://prose.io)             | Node  | A content editor for GitHub                               | [Github](https://github.com/prose/prose) |
 | [Code Combat](http://codecombat.com/) | CoffeeScript | Multiplayer programming game for learning how to code. Largest FOSS CoffeeScript codebase in production | [Github](https://github.com/codecombat/codecombat) |
-
+| [Voicechat](http://voicechatapi.com) | Python | VoiceChat is a set of APIs to create ad-hoc conferences to be used in the browser. | [Github](https://github.com/plivo/voicechat) |
+| [YumHacker](http://yumhacker.com) | Rails | Find and share awesome restaurants! | [Github](https://github.com/jendewalt/yumhacker) [Intro](http://blog.yumhacker.com/post/74733516768/yumhacker-i-built-a-social-network-for-food-and-heres) |
+| [Earth](http://earth.nullschool.net) | Node | A project to visualize global weather conditions | [Github](https://github.com/cambecc/earth) |
+| [iSICP](http://xuanji.appspot.com/isicp/) | Static HTML | Interactive Structure and Interpretation of Computer Programs | [Github](https://github.com/zodiac/isicp) |
 
 # Quick mentions
 * [HubSpot Dev and Design](http://github.hubspot.com/)
