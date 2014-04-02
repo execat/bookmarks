@@ -79,6 +79,7 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 | [Code Combat](http://codecombat.com/) | CoffeeScript | Multiplayer programming game for learning how to code. Largest FOSS CoffeeScript codebase in production | [Github](https://github.com/codecombat/codecombat) |
 | [cozy-pfm](https://www.cozycloud.cc/) | JavaScript | This is a Personal Finance Manager for the awesome CozyCloud project. | [Github](https://github.com/seeker89/cozy-pfm/) |
 | [Etherpad Lite](http://etherpad.org) || Really real-time collaborative document editing for the rest of us.| [Github](https://github.com/ether/etherpad-lite) |
+| [Exambuff](http://truffles.me.uk/exambuff-open-sourced-startup) | PHP | Exam preparation platform | [Github](https://github.com/timruffles/exambuff) |
 | [GetchaBooks](http://getchaBooks.com) | PHP | GetchaBooks.com is a web service that combines school textbook listings with an easy-to-use price comparison system.| [Github](https://github.com/getchabooks/getchabooks) |
 | [Guardian](http://www.theguardian.com/uk?view=mobile) | CSS, styling | The Guardian website frontend. | [Github](https://github.com/guardian/frontend) |
 | [Hacker News](http://news.ycombinator.com) | Arc | Hacker News web site source code mirror. | [Github](https://github.com/wting/hackernews) |
