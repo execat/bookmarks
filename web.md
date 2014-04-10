@@ -88,6 +88,10 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 | [Peer.fm](http://peer.fm) || Music-streaming service with unique social features and real-time syncing.| [Github](https://github.com/buu700/napster.fm/) |
 | [TuneCrawl](http://www.tunecrawl.com/)| Plain HTML, JavaScript) | Find and play music from the most popular music streaming providers.| [Github](https://github.com/ProbablyOliver/TuneCrawl) |
 
+### Frontend
+* [Backbone tutorials](https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites)
+* [Backbone examples](https://github.com/jashkenas/backbone/wiki/Projects-and-Companies-using-Backbone)
+
 # Quick mentions
 * [Coursewa.re](https://github.com/Courseware)
 * [HubSpot Dev and Design](http://github.hubspot.com/)
