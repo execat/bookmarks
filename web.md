@@ -88,6 +88,7 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 | [Peer.fm](http://peer.fm) || Music-streaming service with unique social features and real-time syncing.| [Github](https://github.com/buu700/napster.fm/) |
 | [TuneCrawl](http://www.tunecrawl.com/)| Plain HTML, JavaScript) | Find and play music from the most popular music streaming providers.| [Github](https://github.com/ProbablyOliver/TuneCrawl) |
 | [untrusted](http://alex.nisnevich.com/untrusted/) | JavaScript | A meta-JavaScript adventure game | [Github](https://github.com/AlexNisnevich/untrusted) |
+| [Vimulator](http://thoughtbot.github.io/vimulator/) | Static HTML, JS | A JavaScript Vim simulator for demonstrations | [Github](https://github.com/thoughtbot/vimulator/) |
 
 ### Frontend
 * [Backbone tutorials](https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites)
@@ -103,4 +104,3 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 
 
 
-| [Vimulator](http://thoughtbot.github.io/vimulator/) | Static HTML, JS | A JavaScript Vim simulator for demonstrations | [Github](https://github.com/thoughtbot/vimulator/) |
