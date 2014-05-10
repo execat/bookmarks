@@ -86,6 +86,7 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 | [iSICP](http://xuanji.appspot.com/isicp/) | Static HTML | Interactive Structure and Interpretation of Computer Programs | [Github](https://github.com/zodiac/isicp) |
 | [makrio](https://makr.io) || Source code for https://makr.io.| [Github](https://github.com/makrio/makrio) |
 | [Peer.fm](http://peer.fm) || Music-streaming service with unique social features and real-time syncing.| [Github](https://github.com/buu700/napster.fm/) |
+| [redditviz](https://rhiever.github.io/redditviz/) | JavaScript | An interactive map of reddit. | [Github](https://github.com/rhiever/redditviz/) |
 | [TuneCrawl](http://www.tunecrawl.com/)| Plain HTML, JavaScript) | Find and play music from the most popular music streaming providers.| [Github](https://github.com/ProbablyOliver/TuneCrawl) |
 | [untrusted](http://alex.nisnevich.com/untrusted/) | JavaScript | A meta-JavaScript adventure game | [Github](https://github.com/AlexNisnevich/untrusted) |
 | [Vimulator](http://thoughtbot.github.io/vimulator/) | Static HTML, JS | A JavaScript Vim simulator for demonstrations | [Github](https://github.com/thoughtbot/vimulator/) |
