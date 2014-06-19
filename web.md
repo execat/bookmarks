@@ -18,6 +18,7 @@
 | [Sched.do](http://sched.do) | Rails | A scheduling app that is tightly integrated with Yammer.| [Github](https://github.com/yammer/sched.do) |
 | [Sketch-a-char](http://sketch-a-char.heroku.com) | Rails | Successor of Detexify.| [Github](https://github.com/kirel/sketch-a-char) |
 | Brevidy | Rails | An open source video social network built with Ruby on Rails, HAML, Bootstrap, and jQuery.| [Github](https://github.com/iwasrobbed/Brevidy) |
+| Updn | Rails | Reddit-alike where submissions and voting use Bitcoin (Lobsters codebase + Bitcoin) | [Github](https://github.com/fisher-lebo/updn) |
 | [Wanderlust](http://mywanderlust.co/) | Rails | A web and mobile application to help organize travel plans among multiple people.| [Github](https://github.com/danecjensen/mywanderlust) |
 | [YumHacker](http://yumhacker.com) | Rails | Find and share awesome restaurants! | [Github](https://github.com/jendewalt/yumhacker) [Intro](http://blog.yumhacker.com/post/74733516768/yumhacker-i-built-a-social-network-for-food-and-heres) |
 
@@ -50,6 +51,7 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 ###Python
 | Application name | Platform | Description | Links |
 |------------------|----------|-------------|-------|
+| [Bootcamp](http://trybootcamp.vitorfs.com) | Python::Django | An enterprise social network | [Gitub](https://github.com/vitorfs/bootcamp) |
 | [Explainshell](http://www.explainshell.com/) | Python | Explain a given command-line. | [Github](https://github.com/idank/explainshell) |
 | [Kite](http://khamidou.github.io/kite/) | Python/Node | Kite is an opensource replacement to Gmail.| [Github](https://github.com/khamidou/kite) |
 | [MediaCrush](https://mediacru.sh) | Python | A website for serving media super fast.| [Github](https://github.com/MediaCrush/MediaCrush) |
@@ -88,6 +90,7 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 | [Peer.fm](http://peer.fm) || Music-streaming service with unique social features and real-time syncing.| [Github](https://github.com/buu700/napster.fm/) |
 | [redditviz](https://rhiever.github.io/redditviz/) | JavaScript | An interactive map of reddit. | [Github](https://github.com/rhiever/redditviz/) |
 | [TuneCrawl](http://www.tunecrawl.com/)| Plain HTML, JavaScript) | Find and play music from the most popular music streaming providers.| [Github](https://github.com/ProbablyOliver/TuneCrawl) |
+| [Unsee](https://unsee.cc) | PHP | Secure and private image hosting | [Github](https://github.com/Umkus/unsee.cc) |
 | [untrusted](http://alex.nisnevich.com/untrusted/) | JavaScript | A meta-JavaScript adventure game | [Github](https://github.com/AlexNisnevich/untrusted) |
 | [Vimulator](http://thoughtbot.github.io/vimulator/) | Static HTML, JS | A JavaScript Vim simulator for demonstrations | [Github](https://github.com/thoughtbot/vimulator/) |
 
