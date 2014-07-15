@@ -50,6 +50,7 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 | [Discourse](http://www.discourse.org/) | Discourse is the 100% open source, next-generation discussion platform built for the next decade of the Internet | [Github](http://github.com/discourse/discourse) [OSR](http://www.opensourcerails.com/discourse/) |
 
 Small projects for getting started
+
 | Application name | Platform | Description | Links |
 |------------------|----------|-------------|-------|
 | [Balder](http://balderapp.com/) | Rails | Balder - Open source Ruby on Rails photo gallery | [Github](https://github.com/espen/balder/) |
