@@ -7,6 +7,7 @@
 ###Ruby
 | Application name | Platform | Description | Links |
 |------------------|----------|-------------|-------|
+| Brevidy | Rails | An open source video social network built with Ruby on Rails, HAML, Bootstrap, and jQuery.| [Github](https://github.com/iwasrobbed/Brevidy) |
 | [codedoor](https://www.codedoor.com/) | Rails | CodeDoor is a marketplace for freelance programmers to find work.| [Github](https://github.com/CodeDoor/codedoor) |
 | [Feedbin](https://feedbin.me/) | Rails | A fast, simple RSS reader that delivers a great reading experience.| [Github](https://github.com/feedbin/feedbin) |
 | [Holla](https://maccman-holla.heroku.com/) | Rails | Holla is a group chat app. The UI is built in a RIA fashion - i.e. is totally asynchronous and super fast.| [Github](https://github.com/maccman/holla) |
@@ -17,7 +18,6 @@
 | [Quill](http://www.quill.org) | Rails | Quill provides interactive grammar lessons.| [Github](https://github.com/empirical-org/quill) |
 | [Sched.do](http://sched.do) | Rails | A scheduling app that is tightly integrated with Yammer.| [Github](https://github.com/yammer/sched.do) |
 | [Sketch-a-char](http://sketch-a-char.heroku.com) | Rails | Successor of Detexify.| [Github](https://github.com/kirel/sketch-a-char) |
-| Brevidy | Rails | An open source video social network built with Ruby on Rails, HAML, Bootstrap, and jQuery.| [Github](https://github.com/iwasrobbed/Brevidy) |
 | [Wanderlust](http://mywanderlust.co/) | Rails | A web and mobile application to help organize travel plans among multiple people.| [Github](https://github.com/danecjensen/mywanderlust) |
 | [YumHacker](http://yumhacker.com) | Rails | Find and share awesome restaurants! | [Github](https://github.com/jendewalt/yumhacker) [Intro](http://blog.yumhacker.com/post/74733516768/yumhacker-i-built-a-social-network-for-food-and-heres) |
 
