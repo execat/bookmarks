@@ -47,6 +47,13 @@ From [Open Source Rails](http://www.opensourcerails.com/) listed by "Recently Ad
 | [Mixture FM](http://mixture.fm/) | The best and organized DJ mixes from around the world | [Github](http://github.com/erickreutz/mixturefm) [OSR](http://www.opensourcerails.com/mixturefm/) |
 | [Hackety Hack](http://hackety.com/) | Learning management system that powers Hackety.com | [Github](http://github.com/hacketyhack/hackety-hack.com) [OSR](http://www.opensourcerails.com/hackety/) |
 | [Discourse](http://www.discourse.org/) | Discourse is the 100% open source, next-generation discussion platform built for the next decade of the Internet | [Github](http://github.com/discourse/discourse) [OSR](http://www.opensourcerails.com/discourse/) |
+
+Small projects for getting started
+| Application name | Platform | Description | Links |
+|------------------|----------|-------------|-------|
+| [Balder](http://balderapp.com/) | Rails | Balder - Open source Ruby on Rails photo gallery | [Github](https://github.com/espen/balder/) |
+| Binterest | Rails | Result of the 'One Month Rails' course by Mattan Griffel | [Github](https://github.com/benjaminmbrown/binterest) |
+
 ###Python
 | Application name | Platform | Description | Links |
 |------------------|----------|-------------|-------|
