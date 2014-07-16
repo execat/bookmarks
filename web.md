@@ -15,6 +15,7 @@
 | [Loomio](https://www.loomio.org/) | Rails | Loomio is a user-friendly tool for group decision-making. | [Github](https://github.com/loomio/loomio) |
 | [MindMup](http://www.mindmup.com) | Sinatra | MindMup is a zero-friction mind map canvas. Our aim is to create the most productive mind mapping environment out there, removing all the distractions and providing powerful editing shortcuts. | [Github](https://github.com/mindmup/mindmup) |
 | [Monocle](http://monocle.io) | Sinatra, client-side JS | Monocle is a community focused around technology and startups.| [Github](https://github.com/maccman/monocle) |
+| [movie_tell](https://movie-tell.com) | Rails | The source for https://movie-tell.com | [Github](https://github.com/danieljaouen/movie_tell) |
 | [Quill](http://www.quill.org) | Rails | Quill provides interactive grammar lessons.| [Github](https://github.com/empirical-org/quill) |
 | [Sched.do](http://sched.do) | Rails | A scheduling app that is tightly integrated with Yammer.| [Github](https://github.com/yammer/sched.do) |
 | [Sketch-a-char](http://sketch-a-char.heroku.com) | Rails | Successor of Detexify.| [Github](https://github.com/kirel/sketch-a-char) |
