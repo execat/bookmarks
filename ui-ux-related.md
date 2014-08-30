@@ -15,6 +15,7 @@
 * [Web Top Source](http://www.webtopsource.com/)
 * [freepik](http://www.freepik.com/)
 * [UI Kits](http://designgeekz.com/free-ui-kits/)
+* [Phantom Open Emoji](https://github.com/Genshin/PhantomOpenEmoji): A completely free and open set of emoji. Use and distribute with any project!
 
 ## Stock images
 
