@@ -13,12 +13,12 @@
 ## Resources
 
 * [Web Top Source](http://www.webtopsource.com/)
+* [freepik](http://www.freepik.com/)
 
 ## Stock images
 
 * [The Stocks](http://thestocks.im/)
 * [picjumbo](http://picjumbo.com/)
-* [freepik](http://www.freepik.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Unsplash](http://unsplash.com/)
 * [Little Visuals](http://littlevisuals.co/)
