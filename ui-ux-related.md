@@ -40,6 +40,9 @@
 ## Typography
 
 * [Typespriation](http://typespiration.com/)
+* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+* [Beautiful Web Type Combinations](http://bueltge.de/free-web-font-combinations/)
+* [slabText - jQuery plugin for producing bold and responsive headlines](http://freqdec.github.io/slabText/)
 
 ## [Bootstrap](http://getbootstrap.com/)
 
