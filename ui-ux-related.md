@@ -37,6 +37,9 @@
 * [Ionicons](http://ionicons.com/)
 * [Noun Project](http://thenounproject.com/)
 
+## Typography
+
+* [Typespriation](http://typespiration.com/)
 
 ## [Bootstrap](http://getbootstrap.com/)
 
