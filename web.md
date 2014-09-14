@@ -12,7 +12,11 @@
 | [Feedbin](https://feedbin.me/) | Rails | A fast, simple RSS reader that delivers a great reading experience.| [Github](https://github.com/feedbin/feedbin) |
 | Gollum | Ruby gem | A simple, Git-powered wiki with a sweet API and local frontend. | [Github](https://github.com/gollum/gollum) |
 | [Holla](https://maccman-holla.heroku.com/) | Rails | Holla is a group chat app. The UI is built in a RIA fashion - i.e. is totally asynchronous and super fast.| [Github](https://github.com/maccman/holla) |
-| [Lobsters](https://lobste.rs/) | Rails | HN style link aggregation site | [Github](https://github.com/jcs/lobsters) |
+| [Lobsters](https://lobste.rs/) | Rails | HN style link aggregation site |
+
+| [Kissr](https://www.kissr.com/pages/update) | Rails | Dropbox webhosting. | [Github](https://github.com/KISSr/kissr_website) |
+| [Lobsters](https://lobste.rs/) | Rails | HN style link aggregation site |
+[Github](https://github.com/jcs/lobsters) |
 | [Loomio](https://www.loomio.org/) | Rails | Loomio is a user-friendly tool for group decision-making. | [Github](https://github.com/loomio/loomio) |
 | [MindMup](http://www.mindmup.com) | Sinatra | MindMup is a zero-friction mind map canvas. Our aim is to create the most productive mind mapping environment out there, removing all the distractions and providing powerful editing shortcuts. | [Github](https://github.com/mindmup/mindmup) |
 | [Monocle](http://monocle.io) | Sinatra, client-side JS | Monocle is a community focused around technology and startups.| [Github](https://github.com/maccman/monocle) |
