@@ -13,7 +13,6 @@
 | Gollum | Ruby gem | A simple, Git-powered wiki with a sweet API and local frontend. | [Github](https://github.com/gollum/gollum) |
 | [Holla](https://maccman-holla.heroku.com/) | Rails | Holla is a group chat app. The UI is built in a RIA fashion - i.e. is totally asynchronous and super fast.| [Github](https://github.com/maccman/holla) |
 | [Lobsters](https://lobste.rs/) | Rails | HN style link aggregation site |
-
 | [Kissr](https://www.kissr.com/pages/update) | Rails | Dropbox webhosting. | [Github](https://github.com/KISSr/kissr_website) |
 | [Lobsters](https://lobste.rs/) | Rails | HN style link aggregation site |
 [Github](https://github.com/jcs/lobsters) |
