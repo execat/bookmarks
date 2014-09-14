@@ -94,6 +94,8 @@ Small projects for getting started
 | [Etherpad Lite](http://etherpad.org) || Really real-time collaborative document editing for the rest of us.| [Github](https://github.com/ether/etherpad-lite) |
 | [Exambuff](http://truffles.me.uk/exambuff-open-sourced-startup) | PHP | Exam preparation platform | [Github](https://github.com/timruffles/exambuff) |
 | [GetchaBooks](http://getchaBooks.com) | PHP | GetchaBooks.com is a web service that combines school textbook listings with an easy-to-use price comparison system.| [Github](https://github.com/getchabooks/getchabooks) |
+| [Gitit](http://gitit.johnmacfarlane.net) | Haskell | A wiki using HAppS, pandoc, and git. | [Github](https://github.com/jgm/gitit) |
+| [Gogs](http://gogs.io) | Go | Gogs (Go Git Service) is a painless self-hosted Git Service written in Go. | [Github](https://github.com/gogits/gogs) |
 | [Guardian](http://www.theguardian.com/uk?view=mobile) | CSS, styling | The Guardian website frontend. | [Github](https://github.com/guardian/frontend) |
 | [Hacker News](http://news.ycombinator.com) | Arc | Hacker News web site source code mirror. | [Github](https://github.com/wting/hackernews) |
 | [iSICP](http://xuanji.appspot.com/isicp/) | Static HTML | Interactive Structure and Interpretation of Computer Programs | [Github](https://github.com/zodiac/isicp) |
