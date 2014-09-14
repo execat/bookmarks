@@ -10,6 +10,7 @@
 | Brevidy | Rails | An open source video social network built with Ruby on Rails, HAML, Bootstrap, and jQuery.| [Github](https://github.com/iwasrobbed/Brevidy) |
 | [codedoor](https://www.codedoor.com/) | Rails | CodeDoor is a marketplace for freelance programmers to find work.| [Github](https://github.com/CodeDoor/codedoor) |
 | [Feedbin](https://feedbin.me/) | Rails | A fast, simple RSS reader that delivers a great reading experience.| [Github](https://github.com/feedbin/feedbin) |
+| Gollum | Ruby gem | A simple, Git-powered wiki with a sweet API and local frontend. | [Github](https://github.com/gollum/gollum) |
 | [Holla](https://maccman-holla.heroku.com/) | Rails | Holla is a group chat app. The UI is built in a RIA fashion - i.e. is totally asynchronous and super fast.| [Github](https://github.com/maccman/holla) |
 | [Lobsters](https://lobste.rs/) | Rails | HN style link aggregation site | [Github](https://github.com/jcs/lobsters) |
 | [Loomio](https://www.loomio.org/) | Rails | Loomio is a user-friendly tool for group decision-making. | [Github](https://github.com/loomio/loomio) |
