@@ -73,6 +73,7 @@ Small projects for getting started
 | [Api Axle](http://apiaxle.com) | Node | A free, locally hosted API management solution. A proxy for your api, statistics for your api & a powerful api of its own.| [Github](https://github.com/apiaxle/apiaxle) |
 | [Earth](http://earth.nullschool.net) | Node | A project to visualize global weather conditions | [Github](https://github.com/cambecc/earth) |
 | [GuessHub](http://guesshub.io/) | Node | Given a patch (change) taken from a GitHub commit, guess which repository it comes from. | [Github](https://github.com/max99x/guesshub/)
+| [Gravit](http://getchaBooks.com) | Node | The versatile design tool. | [Github](https://github.com/quasado/gravit) |
 | [Kite](http://khamidou.github.io/kite/) | Python/Node | Kite is an opensource replacement to Gmail.| [Github](https://github.com/khamidou/kite) [Also in](#python) |
 | [LogicPull](https://www.logicpull.com/) | Node | LogicPull gives you the tools to quickly create advanced question and answer interviews for end-users to produce all the documents you need. | [Github](https://github.com/ChrisZieba/LogicPull) |
 | [Mixbolt](http://mixbolt.com) | | DJ tool in your browser | [Github](https://github.com/adaline/mixbolt) |
