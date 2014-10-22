@@ -36,6 +36,7 @@
 * [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 * [Ionicons](http://ionicons.com/)
 * [Noun Project](http://thenounproject.com/)
+* [Round Icons](http://roundicons.com/) (Paid, free 60 icons)
 
 ## Typography
 
