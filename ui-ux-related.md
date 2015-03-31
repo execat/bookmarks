@@ -37,6 +37,7 @@
 * [Ionicons](http://ionicons.com/)
 * [Noun Project](http://thenounproject.com/)
 * [Round Icons](http://roundicons.com/) (Paid, free 60 icons)
+* [Mega Flagship (PSD, AI, SVG, EPS, SKETCH)](http://webuilddesign.com/mega-flagship-icon-set-freebie-psd-ai-svg-eps-sketch/)
 
 ## Typography
 
