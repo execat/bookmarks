@@ -25,11 +25,20 @@
 * [Unsplash](http://unsplash.com/)
 * [Little Visuals](http://littlevisuals.co/)
 * [Death to the Stock Photo](http://deathtothestockphoto.com/)
-* [Superfamous](http://superfamous.com/)
+* [Superfamous](http://superfamous.com/) (requires attribution)
 * [Life of Pix](http://www.lifeofpix.com/)
 * [IM Creator](http://www.imcreator.com/free/)
 * [Getrefe](http://getrefe.tumblr.com/)
 * [Jay Mantri](http://jaymantri.com/)
+* [New Old Stock](http://nos.twnsnd.co/)
+* [The Pattern Library](http://thepatternlibrary.com/)
+* [IM Free](http://imcreator.com/free) (requires attribution)
+* [Public Domain Archive](http://publicdomainarchive.com/)
+* [Magdeleine](http://magdeleine.co/)
+* [Foodiesfeed](http://foodiesfeed.com
+* [Picography](http://picography.co/)
+* [Raumrot](http://www.raumrot.com/10/)
+* [ISO Republic](http://isorepublic.com/)
 
 ## Icons
 
